@@ -74,6 +74,11 @@ Figure: Shell cap of heat exchanger
 Figure: Nozzle of heat exchanger
 
 
+![](tubesandbaffles.jpg)
+
+Figure: Tubes and baffles of heat exchanger
+
+
 ![](Tube.png)
 
 Figure: Tube inside heat exchanger
